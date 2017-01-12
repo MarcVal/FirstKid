@@ -17,7 +17,7 @@ import static org.hamcrest.Matchers.is;
 
 
 /**
- * Created by SatsangTurya on 10/29/2016.
+ * Created by Valeria Marc on 10/29/2016.
  */
 public class RegistrationSteps extends TestBase {
 
